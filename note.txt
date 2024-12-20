@@ -1,0 +1,11 @@
+1) Primitive ==> Primitive types are defined by javaScript
+* Number ==> 123456789
+* String ==> 'This is string', "This is string", `This is string`
+* Boolean ==> True or False
+* Undefined ==> Nothing is defined
+* Null ==> Absence of values
+
+2) Not-Primitive (Object) ==> Object types are defined by user data type
+* Array
+* Object
+* Function
